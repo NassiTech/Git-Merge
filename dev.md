@@ -1,3 +1,4 @@
 
 
-Toms Aufgabe hat keinen Konflikt.
+Die Aufgabe hat einen Konflikt
+
